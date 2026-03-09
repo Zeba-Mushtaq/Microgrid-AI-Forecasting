@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# VS Code
+.vscode/
+
+# Large data files
+*.zip
+
+# Models (large files)
+models/*.h5
+models/*.pkl
