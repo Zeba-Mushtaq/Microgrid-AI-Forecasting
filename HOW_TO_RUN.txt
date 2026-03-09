@@ -1,0 +1,28 @@
+# HOW TO RUN THIS PROJECT
+
+## ❌ WRONG (This will fail):
+python main.py
+
+## ✅ CORRECT - Choose ONE of these methods:
+
+### Method 1: Using the launcher script (EASIEST)
+.\run.bat
+
+### Method 2: Activate virtual environment first
+.\.venv\Scripts\activate
+python main.py
+
+### Method 3: Direct path to virtual environment Python
+.\.venv\Scripts\python.exe main.py
+
+---
+
+## Why?
+- `python main.py` uses your **system Python** (no packages installed)
+- `.\.venv\Scripts\python.exe` uses the **virtual environment** (has all packages)
+
+## Quick Test
+Run this to verify it works:
+```
+.\.venv\Scripts\python.exe --version
+```
