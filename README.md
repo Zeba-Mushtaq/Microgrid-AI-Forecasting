@@ -25,6 +25,8 @@ MicrogridProject/
 ├── main.py       → Main project pipeline
 └── generate_plots.py  → Additional plotting script
 ```
+## Live Demo
+Model results and visualizations available in the notebook.
 
 ## Implementation Details
 
