@@ -2,6 +2,8 @@
 
 ## Project Overview
 This project implements AI-based forecasting models for microgrid energy management, including load demand forecasting, renewable energy generation forecasting (solar and wind), and an energy management system for adaptive energy dispatch.
+## Citation
+If you use this work, please cite this repository.
 
 ## Project Structure
 ```
