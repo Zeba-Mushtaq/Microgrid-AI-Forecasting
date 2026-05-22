@@ -5,6 +5,9 @@ This project implements AI-based forecasting models for microgrid energy managem
 ## Citation
 If you use this work, please cite this repository.
 
+## Acknowledgements
+Thanks to the open-source community and GEFCom2014 dataset contributors.
+
 ## Project Structure
 ```
 MicrogridProject/
